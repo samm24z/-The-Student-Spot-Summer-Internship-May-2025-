@@ -1,0 +1,2 @@
+Task_3_Build_a_sentiment_analysis_model/data/imdb_data.csv filter=lfs diff=lfs merge=lfs -text
+Task_3_Build_a_sentiment_analysis_model/models/rf.pkl filter=lfs diff=lfs merge=lfs -text
