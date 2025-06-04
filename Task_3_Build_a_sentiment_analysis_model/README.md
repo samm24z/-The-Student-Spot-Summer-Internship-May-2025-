@@ -29,7 +29,7 @@ To replicate the analysis and explore the results, follow these steps:
 1. Clone this repository to your local machine using the command:
 
 ```bash
-[git clone https://github.com/iiakshat/Sentiment-Analysis-using-NLTK](https://github.com/samm24z/-The-Student-Spot-Summer-Internship-May-2025-/tree/main/Task_3_Build_a_sentiment_analysis_model)
+https://github.com/samm24z/-The-Student-Spot-Summer-Internship-May-2025-/tree/main/Task_3_Build_a_sentiment_analysis_model
 ``` 
 
 2. Install the dependencies:
