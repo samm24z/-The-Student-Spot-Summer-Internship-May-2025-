@@ -99,8 +99,8 @@ Make sure you have the following installed:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git) # Replace with your actual repo URL
-    cd your-repo-name # Replace with your project folder name (e.g., The-Student-Spot-Summer-Internship-May-2025)
+    git clone https://github.com/samm24z/The-Student-Spot-Summer-Internship-May-2025/tree/main/Task_4 
+    cd The-Student-Spot-Summer-Internship-May-2025 
     ```
 2.  **Create a virtual environment (recommended):**
     ```bash
